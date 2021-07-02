@@ -1,6 +1,6 @@
 # tiny-wheels
 
-一套基于原生JavaScript开发的组件库，无依赖、体积小、简单易用
+一套基于原生JavaScript开发的组件库，无依赖、体积小、简单易用...
 
 [![npm](https://img.shields.io/npm/v/tiny-wheels.svg?style=flat-square)](https://www.npmjs.com/package/tiny-wheels) [![npm](https://img.shields.io/npm/dt/tiny-wheels.svg?style=flat-square)](https://www.npmjs.com/package/tiny-wheels) [![npm](https://img.shields.io/npm/l/tiny-wheels.svg?style=flat-square)](https://www.npmjs.com/package/tiny-wheels)
 
