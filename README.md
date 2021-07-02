@@ -6,7 +6,7 @@
 
 ## 文档
 
-关于各个组件的详细使用方式和效果可以查看本项目的文档：[tiny-wheels](https://csdoker.github.io/tiny-wheels/)
+关于各个----组件的详细使用方式和效果可以查看本项目的文档：[tiny-wheels](https://csdoker.github.io/tiny-wheels/)
 
 ## 特点
 
