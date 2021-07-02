@@ -1,6 +1,8 @@
 # tiny-wheels
 
-一套基于原生JavaScript开发的组件库，无依赖、体积小、简单易用
+一套基于原生JavaScript开发的组件库，无依赖、体积小、简单易用...
+
+
 
 [![npm](https://img.shields.io/npm/v/tiny-wheels.svg?style=flat-square)](https://www.npmjs.com/package/tiny-wheels) [![npm](https://img.shields.io/npm/dt/tiny-wheels.svg?style=flat-square)](https://www.npmjs.com/package/tiny-wheels) [![npm](https://img.shields.io/npm/l/tiny-wheels.svg?style=flat-square)](https://www.npmjs.com/package/tiny-wheels)
 
@@ -8,7 +10,7 @@
 
 关于各个----组件的详细使用方式和效果可以查看本项目的文档：[tiny-wheels](https://csdoker.github.io/tiny-wheels/)
 
-## 特点
+## 特点 12
 
 - 使用`ES6`最新语法编写，纯原生`JavaScript`代码，适合新手阅读
 - 无任何第三方依赖，源码非常精简，可以自由拓展组件功能
